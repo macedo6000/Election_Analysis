@@ -29,7 +29,7 @@ After a lengthy process of cleaning and organizing the election data using pytho
 ![](./Resources/TotalResults.png)
 
 ## Election-Audit Summary
-The Election Audit Analysis has provided the Colorado Election Commission with a thorough analysis of the election data provided. Two examples of how this scripted can be modified to be used for other elections would be for the use of another dataset (CSV or other tabular file) and a change in election region, such as city or state.
+The Election Audit Analysis has provided the Colorado Election Commission with a thorough analysis of the election data provided. Two examples of how this script can be modified to be used for other elections would be for the use of another dataset (CSV or other tabular file) and a change in election region, such as city or state.
 
 The customized script can be used with any tabular dataset. The auditor would have to make a change in the data source, ("Resources", "election_results.csv"), and upload the desired text file to the code script, as seen below. 
 
